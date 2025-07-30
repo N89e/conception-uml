@@ -1,1 +1,3 @@
-*.vpp.bak*
+diag_Entité_Relations/*.vpp.bak*
+diag_class/*.vpp.bak*
+diag_activity/*.vpp.bak*
